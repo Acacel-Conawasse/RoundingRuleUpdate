@@ -1,0 +1,1603 @@
+BMC-NonExempt-FT8-60L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-NL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-NL-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-NL-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-NL-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-NL-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-1hrL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-30L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-30L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-30L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-30L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-30L-NOHOP|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-45L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-45L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-45L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-45L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-45L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-60L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-60L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-60L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-60L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-60L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-1hrL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-30L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-30L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-30L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-30L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-30L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-30L-RNC2|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-45L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-45L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-45L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-45L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-45L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-60L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-60L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-60L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-60L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-60L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-NL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-NL-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-NL-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-NL-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT8-NL-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-NL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-NL-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-NL-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-NL-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-OT-NL-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-1hrL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-30L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-30L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-30L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-30L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-30L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-30L-NOHOP|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-45L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-45L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-45L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-45L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-45L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-60L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-60L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-60L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-60L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-60L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-NL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-NL-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-NL-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-NL-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-NL-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-30L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-30L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-30L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-30L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-30L-NHOP|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-30L-RNC|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-45L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-45L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-45L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-45L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-45L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-60L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-60L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-60L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-60L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-60L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-1hrL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-30L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-30L Cop|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-30L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-30L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-30L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-30L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-30L-RNC|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-45L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-45L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-45L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-45L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-45L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-60L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-60L-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-60L-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-60L-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-60L-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-NL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-NL-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-NL-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-NL-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-NL-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-W-30L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT8-W-NL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-NL|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-NL-b|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-NL-c|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-NL-d|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-NL-e|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-OT-W-30L-NH|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT8-SH-WED-30L-NH|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT9-OT9-30L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT9-SH-OT9-30L|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT-SH-30L-ORR|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-FT-SH-OT8-30L-ORR|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-NL-OPO|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-PT4-OT|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-PT4-SH-OT|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-PT-SH-OT|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-SH-30L-OPO|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-SH-NL-OPO|15-7-All|JHM-Min-to-Min
+BMC-NonExempt-SH-OPO|15-7-All|JHM-Min-to-Min
+BMC-NonEx-FT12-SH-OT12-30L-CBO|15-7-All|JHM-Min-to-Min
+BMC-NonEx-FT12-SH-OT12-30L-RNC|15-7-All|JHM-Min-to-Min
+BMCN-SH-DWOT-WED|15-7-All|JHM-Min-to-Min
+BMCN-SH-DWOT-WED-OPO|15-7-All|JHM-Min-to-Min
+BMCN-Stand By-Not Worked|15-7-All|JHM-Min-to-Min
+BMCN-StandBy|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-DF1|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-DF1-CC3|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-DF1-CC3-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-DF1-CC3-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-DF1-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-DF1-NOHOP|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-DF1-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-DF1-OR-NOHOP|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-DF1-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-WED|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-WED-CC3|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-WED-CC3-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-WED-CC3-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-WED-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-WED-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH1-DWOT-WED-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-DF1|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-DF1-CC3|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-DF1-CC3-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-DF1-CC3-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-DF1-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-DF1-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-DF1-OR-NOHOP|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-DF1-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-WED|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-WED-CC3|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-WED-CC3-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-WED-CC3-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-WED-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-WED-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH2-DWOT-WED-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-DF1|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-DF1-CC3|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-DF1-CC3-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-DF1-CC3-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-DF1-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-DF1-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-DF1-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-WED|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-WED-CC3|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-WED-CC3-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-WED-CC3-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-WED-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-WED-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH3-DWOT-WED-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-AWED-FR-SU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-AWED-FR-SU-CBO|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-AWED-FR-SU-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-AWED-FR-SU-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-AWED-SA-MO|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-AWED-SA-MO-CBO|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-AWED-SA-MO-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-AWED-SA-MO-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-CBO|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-CBO-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-EDU-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-OR-NOHOP|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-ORR-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-WED|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-WED-ACC3|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-WED-ACC3-CBO|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-WED-ACC3-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-WED-ACC3-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-WED-CBO|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-WED-EDU|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-WED-OR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-WED-OR-NOHOP|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-DWOT-WED-ORR|15-7-All|JHM-Min-to-Min
+BMCN-U-SH-WOT-CBO-OR|15-7-All|JHM-Min-to-Min
+BMCRT-E12-SH-AST|BMCRT-15-7-All|JHM-Min-to-Min
+BMCRT-E8-SH-AST|BMCRT-15-7-All|JHM-Min-to-Min
+BMCRT-E8-SH-OPO|BMCRT-15-7-All|JHM-Min-to-Min
+BMCRT-E-SH-AST|BMCRT-15-7-All|JHM-Min-to-Min
+BMCRT-N-SH-D12WOT-WED|BMCRT-15-7-All|JHM-Min-to-Min
+BMCRT-N-SH-D12WOT-WED-NOHOP|BMCRT-15-7-All|JHM-Min-to-Min
+BMCRT-N-SH-D12WOT-WED-OPO|BMCRT-15-7-All|JHM-Min-to-Min
+BMCRT-N-SH-D8WOT|BMCRT-15-7-All|JHM-Min-to-Min
+BMCRT-N-SH-D8WOT-OPO|BMCRT-15-7-All|JHM-Min-to-Min
+BMCRT-N-SH-D8WOT-WED|BMCRT-15-7-All|JHM-Min-to-Min
+BMCRT-N-SH-D8WOT-WED-OPO|BMCRT-15-7-All|JHM-Min-to-Min
+BMC-U-FT8-SH-OT8-WED-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-1hrL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-30L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-30L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-30L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-45L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-45L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-45L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-45L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-60L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-60L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-60L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-60L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-NL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-NL-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-NL-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-OT10-NL-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-1hrL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-30L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-30L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-30L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-45L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-45L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-45L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-45L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-60L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-60L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-60L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-60L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-NL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-NL-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-NL-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT10-SH-OT10-NL-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-1hrL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-30L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-30L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-30L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-45L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-45L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-45L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-45L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-60L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-60L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-60L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-60L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-NL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-NL-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-NL-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-OT12-NL-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-1hrL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-30L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-30L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-30L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-45L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-45L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-45L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-45L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-60L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-60L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-60L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-60L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-NL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-NL-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-NL-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT12-SH-OT12-NL-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-1hrL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-30L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-30L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-30L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-45L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-45L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-45L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-45L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-60L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-60L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-60L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-60L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-NL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-NL-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-NL-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-NL-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-1hrL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-30L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-30L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-30L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-45L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-45L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-45L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-45L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-60L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-60L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-60L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-60L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-1hrL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-30L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-30L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-30L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-45L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-45L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-45L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-45L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-60L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-60L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-60L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-60L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-NL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-NL-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-NL-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT8-NL-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-NL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-NL-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-NL-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-OT-NL-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-1hrL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-30L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-30L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-30L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-45L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-45L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-45L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-45L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-60L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-60L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-60L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-60L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-NL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-NL-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-NL-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-NL-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-30L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-30L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-30L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-45L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-45L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-45L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-45L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-60L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-60L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-60L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-60L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-1hrL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-30L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-30L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-30L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-30L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-45L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-45L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-45L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-45L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-60L|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-60L-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-60L-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-60L-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-NL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-NL-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-NL-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT8-NL-d|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-NL|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-NL-b|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-NL-c|15-7-All|JHM-Min-to-Min
+BMC-Union-FT8-SH-OT-NL-d|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOT|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOTD08|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOTD08-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOTD08-DF1-NOHOP|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOTD10|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOTD10-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOTD10-DF1-NOHOP|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOTD12|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOTD12-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOTD12-DF1-NOHOP|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOT-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOT-WED-D08|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOT-WED-D10|15-7-All|JHM-Min-to-Min
+BMC-U-SH1-WOT-WED-D12|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOT|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOTD08|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOTD08-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOTD10|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOTD10-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOTD12|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOTD12-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOT-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOT-WED-D08|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOT-WED-D08 -ALT|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOT-WED-D10|15-7-All|JHM-Min-to-Min
+BMC-U-SH2-WOT-WED-D12|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOT|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOTD08|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOTD08-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOTD10|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOTD10-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOTD12|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOTD12-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOT-DF1|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOT-WED-D08|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOT-WED-D10|15-7-All|JHM-Min-to-Min
+BMC-U-SH3-WOT-WED-D12|15-7-All|JHM-Min-to-Min
+BMCXN-E-SH-WOT-WED|15-7-All|JHM-Min-to-Min
+FM-AST-SH1|NULL|JHM-Min-to-Min
+FM-AST-SH2|NULL|JHM-Min-to-Min
+FM-AST-SH3|NULL|JHM-Min-to-Min
+FM-B-Exempt-FT8-OT8-30L|15-7-All|JHM-Min-to-Min
+FM-B-NonExempt-FT8-SH-30L|15-7-All|JHM-Min-to-Min
+FM-B-NonExempt-FT8-SH-OT8-30L|15-7-All|JHM-Min-to-Min
+FM-B-NonExempt-FT8-SH-OT8-30L-CL|15-7-All|JHM-Min-to-Min
+FM-Exempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+FM-Exempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+FM-NonExempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+FM-NonExempt-FT8-OT-30L-24-7HOP|15-7-All|JHM-Min-to-Min
+FM-NonExempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+FM-NonExempt-FT8-SH-OT-30L-24-7H|15-7-All|JHM-Min-to-Min
+FM-Union-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+FM-Union-FT-SH-OT-NL|15-7-All|JHM-Min-to-Min
+FM-Union-PT-SH-OT-30L|15-7-All|JHM-Min-to-Min
+FM-Union-PT-SH-OT-30L-NOHOP|15-7-All|JHM-Min-to-Min
+GSS-NonExempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+GSS-NonExempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+GSS-NonExempt-PT-OT-30L|15-7-All|JHM-Min-to-Min
+GSS-NonExempt-PT-SH-OT-30L|15-7-All|JHM-Min-to-Min
+HCGAlt-NonExempt-PT-SH-OT-30L|15-7-All|JHM-Min-to-Min
+HCGAlt-NonExempt-PT-SH-OT-NL|15-7-All|JHM-Min-to-Min
+HCG-Consult|15-7-All Agency|JHM-Min-to-Min
+HCG-Exempt-FT8-AST-30L|15-7-All|JHM-Min-to-Min
+HCG-Exempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+HCG-Exempt-FT8-OT-NL|15-7-All|JHM-Min-to-Min
+HCG-Exempt-FT8-SH-AST-30L|15-7-All|JHM-Min-to-Min
+HCG-Exempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+HCG-Exempt-PT75-AST-30L|15-7-All|JHM-Min-to-Min
+HCG-Exempt-PT75-OT-30L|15-7-All|JHM-Min-to-Min
+HCG-Exempt-PT75-SH-AST-30L|15-7-All|JHM-Min-to-Min
+HCG-Exempt-PT75-SH-OT-30L|15-7-All|JHM-Min-to-Min
+HCGH-E10-SH-WED1-MAJ-AST|HCGH-EX Full Time|JHM-Min-to-Min
+HCGH-E12-SH-WED1-MAJ-AST|HCGH-EX Full Time|JHM-Min-to-Min
+HCGH-E36-SH-WED1-MAJ-OPO|HCGH-EX Full Time|JHM-Min-to-Min
+HCGH-E8-SH-WED1-MAJ-AST|HCGH-EX Full Time|JHM-Min-to-Min
+HCGH-E-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-PT-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-SH1-WOT-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-SH-WED1-MAJ-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-SH-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-SH-WOT-WED|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-SH-WOT-WED1-MAJ|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-SH-WOT-WED1-MAJ-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-SH-WOT-WED-MAJ|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-SH-WOT-WED-MAJ-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-SH-WOT-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-SH-WOT-WED-SA|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-E-WOT|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-DF5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-ECHO CB|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-ED-SH1-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-ED-SH1-WOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-ED-SH2-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-ED-SH2-WOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-ED-SH3-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-ED-SH3-WOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-NOPAY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-DWOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-DWOT-WED2-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WOT-WED1-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WOT-WED1-D2.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WOT-WED1-DF5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WOT-WED2 HIM|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WOT-WED2-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WOT-WED2-DF5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH1-WOT-WED2-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH2-DWOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH2-DWOT-WED2-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH2-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH2-WOT-WED1-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH2-WOT-WED1-D2.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH2-WOT-WED1-NL|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH2-WOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH2-WOT-WED2 HIM|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH2-WOT-WED2-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH3-DWOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH3-DWOT-WED2-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH3-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH3-WOT-WED1-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH3-WOT-WED1-D2.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH3-WOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH3-WOT-WED2 HIM|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH3-WOT-WED2-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH-WOT-WED2-TCAS|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-SH-WOT-WED2-TCAS-D3.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-WOT|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-N-WOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-ORR|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-ORR-SH2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-ORR-SH3|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN10-SH1-DWOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN10-SH1-DWOT-WED2-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN10-SH1-DWOT-WED2-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN10-SH1-DWOT-WED2-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN10-SH1-DWOT-WED2-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN10-SH1-DWOT-WED2-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-DWOT-WED|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-DWOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-DWOT-WED1-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-DWOT-WED-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-DWOT-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-DWOT-WED-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-WED-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH1-WED-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH2-DWOT-WED|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH2-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH2-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH2-DWOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH2-DWOT-WED1-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH2-DWOT-WED-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH2-DWOT-WED-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH2-WED-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH2-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH2-WED-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-DWOT-WED|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-DWOT-WED1-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-DWOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-DWOT-WED1-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-DWOT-WED1-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-DWOT-WED-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-DWOT-WED-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-WED-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RNED-SH3-WED-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED1-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED1-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED1-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED2-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED2-880-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED2-CHG-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1DWOTWED2CHG-880-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED2-PRE-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1DWOTWED2PRE-880-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-DWOT-WED-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-WED-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-WED-CHG-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-WED-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-WOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-WOT-WED1-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-WOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-WOT-WED1-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH1-WOT-WED1-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED1-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED2-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED2-880-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED2-CHG-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2DWOTWED2CHG-880-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED2-PRE-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2DWOTWED2PRE-880-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-DWOT-WED-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-WED-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH2-WED-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED1-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED1-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED1-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED2-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED2-880-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED2-CHG-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED2-PRE-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-DWOT-WED-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-WED-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-WED-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-WED-PRE-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-WOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH3-WOT-WED1-PRE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH-WOT-WED1-12hr-CHGLEAD|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH-WOT-WED1-12hrLEAD|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH-WOT-WED1-12hr-PRELEAD|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH-WOT-WED1-8hr-CHGLEAD|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH-WOT-WED1-8hrLEAD|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-RN-SH-WOT-WED1-8hr-PRELEAD|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SBWE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SBY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-E-SH-WOT-WED-MAJ|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH1-ED-WED1-CB-SBWE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH1-ED-WED1-CB-SBY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH1-WED1-CB-SBWE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH1-WED1-CB-SBWE SurgTech|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH1-WED1-CB-SBY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH1-WED1-CB-SBY SurgTech|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH1-WED2-CB-SBWE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH1-WED2-CB-SBY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH2-ED-WED1-CB-SBWE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH2-ED-WED1-CB-SBY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH2-WED1-CB-SBWE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH2-WED1-CB-SBY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH2-WED2-CB-SBWE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH2-WED2-CB-SBY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH3-ED-WED1-CB-SBWE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH3-ED-WED1-CB-SBY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH3-WED1-CB-SBWE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH3-WED1-CB-SBWE SurgTech|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH3-WED1-CB-SBY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH3-WED1-CB-SBY SurgTech|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH3-WED2-CB-SBWE|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-SH3-WED2-CB-SBY|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-ED-SH1-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-ED-SH1-WOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-ED-SH2-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-ED-SH3-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-ED-SH3-WOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH1-DWOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH1-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH1-WOT-WED1-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH1-WOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH1-WOT-WED2 HIM|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH1-WOT-WED2-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH1-WOT-WED2-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH2-DWOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH2-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH2-WOT-WED1-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH2-WOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH2-WOT-WED2 HIM|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH2-WOT-WED2-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH3-DWOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH3-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH3-WOT-WED1-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH3-WOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH3-WOT-WED2 HIM|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH3-WOT-WED2-D1.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH-WOT-WED2-TCAS|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-N-SH-WOT-WED2-TCAS-D3.5|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN10-SH1-DWOT-WED2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN10-SH1-DWOT-WED2-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN10-SH1-DWOT-WED2-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RNED-SH1-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RNED-SH1-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RNED-SH2-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RNED-SH2-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RNED-SH3-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RNED-SH3-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RNED-SH3-DWOT-WED1-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH1-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH1-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH1-DWOT-WED1-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH1-DWOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH1-DWOT-WED2-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH1-DWOT-WED2-CHG-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH1-WOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH1-WOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH1-WOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH2-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH2-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH2-DWOT-WED2-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH2-DWOT-WED2-CHG-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH3-DWOT-WED1|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH3-DWOT-WED1-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH3-DWOT-WED1-CHG-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH3-DWOT-WED1-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH3-DWOT-WED2-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGHS-RN-SH3-DWOT-WED2-CHG-880|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-WKSHOP|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-WKSHOP-SH|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-WKSHOP-SH2|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-WKSHOP-SH3|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-WOT-WEA|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-WOT-WEA Major|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-WOT-WEA-CHG|HCGH-nearest 15min round|JHM-Min-to-Min
+HCGH-WOT-WEA-OPO|HCGH-nearest 15min round|JHM-Min-to-Min
+HCG-NonExempt-FT8-30L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-FT8-OT-60L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-FT8-OT8-30L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-FT8-OT-NL|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-FT8-SH-30L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-FT8-SH-OT-45L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-FT8-SH-OT-NL|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-PT-30L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-PT-30L-D1.5|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-PT8-OT-30L-D1.5|Round to schedule start Single|JHM-Min-to-Min
+HCG-NonExempt-PT-NL|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-PT-OT-30L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-PT-OT-30L-D1.5|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-PT-SH-30L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-PT-SH-OT-30L|15-7-All|JHM-Min-to-Min
+HCG-NonExempt-PT-SH-OT-NL|15-7-All|JHM-Min-to-Min
+HCG-Union-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+HHS-Exempt-FT8-30L|15-7-All|JHM-Min-to-Min
+HHS-Exempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+ISTAFF-ACH|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-ACH-OnCall-CONT|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-ACH-OnCall-UNC|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-ACH-ORR|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-ACH-STTR|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-DEFAULT|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-DEFAULT-1HR|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-DEFAULT-ORR|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-FM|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-HCGH|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-HCGH-OnCall-CONT|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-HCGH-OnCall-UNC|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-HCGH-ORR|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-SHHS|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-SHHS-OnCall-CONT|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-SHHS-OnCall-UNC|15-7-All Agency|JHM-Min-to-Min
+ISTAFF-SHHS-ORR|15-7-All Agency|JHM-Min-to-Min
+JHCP-AST|15-7-All|JHM-Min-to-Min
+JHCP-CLB|15-7-All|JHM-Min-to-Min
+JHCP-CLL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FieldHosp|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT10-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT10-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT10-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT10-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT10-SH-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT12-OT|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT12-SH-OT|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT16-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT16-SH-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT4-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT4-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT4-OT-45L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT4-OT-60L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT4-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT4-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT4-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT4-SH-OT-45L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT4-SH-OT-60L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT4-SH-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT7.5-AST-30L|Round to schedule start|JHM-Min-to-Min
+JHCP-Exempt-FT7.5-OTP-30L|Round to schedule start|JHM-Min-to-Min
+JHCP-Exempt-FT8-AST-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-OT|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-OT-30L-cascade|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-OT-45L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-OT-60L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-OTP-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-SH-AST-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-SH-OT|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-SH-OT-30L- CLB|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-SH-OT-30L-cascad|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-SH-OT-30L-HOP|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-SH-OT-45L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-SH-OT-60L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT8-SH-OTP-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT9-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT9-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT9-OT-45L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT9-OT-60L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT9-OT80|Round to schedule start|JHM-Min-to-Min
+JHCP-Exempt-FT9-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT9-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT9-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT9-SH-OT-45L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT9-SH-OT-60L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-FT9-SH-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT5-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT6.5-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT75-AST-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT75-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT75-OTP-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT75-SH-AST-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT75-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT75-SH-OT-30L-CLB|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT75-SH-OT-30L-HOP|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT75-SH-OTP-30L|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT80-OT|15-7-All|JHM-Min-to-Min
+JHCP-Exempt-PT80-SH-OT|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D100|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D120|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D125|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D130|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D135|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D145|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D150|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D160|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D175|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D180|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D187.50|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D200|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D225|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D250|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D275|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-D300|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-DF50|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-DF60|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-DF80|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-DF85|15-7-All|JHM-Min-to-Min
+JHCP-NE-Moon-OTP-DF90|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-AST-DF85|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-AST-DF90|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D100|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D120|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D125|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D130|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D135|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D145|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D150|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D160|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D175|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D180|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D187.50|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D200|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D225|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D250|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D275|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-D300|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-DF50|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-DF60|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-DF80|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-DF85|15-7-All|JHM-Min-to-Min
+JHCP-NE-Salary-OTP-DF90|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT10-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT10-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-30L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-30L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-30L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-30L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-45L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-45L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-45L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-45L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-60L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-60L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-60L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-60L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-NL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-NL-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-NL-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-NL-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-30L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-30L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-30L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-45L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-45L Unpaid|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-45L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-45L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-45L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-60L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-60L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-60L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-60L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-NL-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-NL-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-OT-NL-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-30L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-30L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-30L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-30L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-45L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-45L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-45L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-45L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-60L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-60L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-60L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-60L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-NL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-NL-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-NL-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-NL-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-30L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-30L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-30L-CLB|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-30L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-30L-DF1|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-30L-DF4|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-45L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-45L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-45L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-45L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-60L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-60L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-60L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-60L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-NL-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-NL-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-FT8-SH-OT-NL-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-30L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-30L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-30L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-30L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-45L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-45L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-45L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-45L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-60L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-60L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-60L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-60L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-NL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-NL-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-NL-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-NL-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-30L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-30L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-30L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-45L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-45L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-45L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-45L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-60L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-60L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-60L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-60L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-NL-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-NL-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-OT-NL-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-30L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-30L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-30L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-30L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-45L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-45L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-45L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-45L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-60L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-60L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-60L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-60L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-NL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-NL-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-NL-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-NL-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-30L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-30L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-30L-CLB|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-30L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-45L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-45L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-45L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-45L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-60L|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-60L-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-60L-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-60L-d|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-NL|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-NL-b|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-NL-c|15-7-All|JHM-Min-to-Min
+JHCP-NonExempt-PT-SH-OT-NL-d|15-7-All|JHM-Min-to-Min
+JHH-CLB|15-7-All|JHM-Min-to-Min
+JHH-CLB-ENHRN|15-7-All|JHM-Min-to-Min
+JHH-CLL|15-7-All|JHM-Min-to-Min
+JHH-CLL8|15-7-All|JHM-Min-to-Min
+JHH-CLL-CBO-WED|15-7-All|JHM-Min-to-Min
+JHH-CLL-CBO-WED-ENHRN|15-7-All|JHM-Min-to-Min
+JHH-CLL-ENHRN|15-7-All|JHM-Min-to-Min
+JHH-Exempt-30L-OPO|Round to schedule start|JHM-Min-to-Min
+JHH-Exempt-CLL-D6.0|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT10-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT10-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT10-SH-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT10-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT10-STA-AST|15-7-Single Punch|JHM-Min-to-Min
+JHH-Exempt-FT12-AST|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT12-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT12-SH-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT16-SH-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT16-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT4-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT4-SH-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT5-SH-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT6-30L-AST|Round to schedule start|JHM-Min-to-Min
+JHH-Exempt-FT6-STA-AST|15-7-Single Punch|JHM-Min-to-Min
+JHH-Exempt-FT7.5-AST|Round to schedule start|JHM-Min-to-Min
+JHH-Exempt-FT7.5-OTP-30L|Round to schedule start|JHM-Min-to-Min
+JHH-Exempt-FT80|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-AST|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-OTP-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-SH-AST-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-SH-DF5-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-SH-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-SH-OT-30L- CLB|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-SH-OT-30L-HOP|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-SH-OT-30LNOWED|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-SH-OTP-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT8-STA-AST|15-7-Single Punch|JHM-Min-to-Min
+JHH-Exempt-FT9-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT9-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-FT9-OT80|Round to schedule start|JHM-Min-to-Min
+JHH-Exempt-FT9-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT5-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT6.5-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT75-AST-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT75-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT75-OTP-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT75-SH-AST-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT75-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT75-SH-OT-30L-CLB|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT75-SH-OT-30L-HOP|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT75-SH-OT-30LNOWED|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT75-SH-OTP-30L|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT80-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-PT80-SH-OT|15-7-All|JHM-Min-to-Min
+JHH-Exempt-SH-30L-OPO|15-7-All|JHM-Min-to-Min
+JHH-Exempt-STA-CLL-AST|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-30L-OPO|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT10-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT10-OT-30L-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-30L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-30L-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-30L-ROT|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-30L-ROT-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-30L-SH2|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-30L-SH2-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-30L-SH3|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-30L-SH3-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-45L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-60L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-30L-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-30L-NOHOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-30L-ROT|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-30L-ROT-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-30L-SH2|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-30L-SH2-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-30L-SH3|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-30L-SH3-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-45L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-OT-60L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-30L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-30L-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-30L-ROT|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-30L-ROT-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-30L-SH2|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-30L-SH2-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-30L-SH3|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-30L-SH3-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-45L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-60L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30L-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30L-Alt|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30L-CLB|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT30LCLB247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30L-CLL8|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30L-DF1|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT30LDF1247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30L-DF4|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT30LDF4247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30L-ROT|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30L-SH2|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT30LSH2247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30L-SH3|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT30LSH3247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-30Lstart|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT30ROT247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-45L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-60L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-FT8-SH-OT-NOWEDHOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-Pharmacy-NS-OPO|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-Pharmacy-OPO|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-30L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-30L-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-30L-247NOHOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-30L-NOHOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-30L-ROT|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-30L-ROT-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-30L-SH2|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-30L-SH2-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-30L-SH3|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-30L-SH3-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-45L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-60L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-30L-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-30LNOHOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-30L-ROT|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-30L-ROT-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-30L-SH2|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-30L-SH2-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-30L-SH3|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-30L-SH3-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-45L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-OT-60L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-30L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-30L-247HOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-30L-NOHOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-30L-ROT|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-30L-ROT-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-30L-SH2|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-30L-SH2-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-30L-SH3|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-30L-SH3-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-45L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-60L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT-30L-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT-30L-CLB|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT30LCLB247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT-30L-NOHOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT-30L-ROT|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT30LROT247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT-30L-SH2|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT30LSH2247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT-30L-SH3|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT30LSH3247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT-45L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OT-60L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OTNOWEDHOP|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OTP-30L|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-PT-SH-OTP-30L-247|15-7-All|JHM-Min-to-Min
+JHH-NonExempt-SH-30L-OPO|15-7-All|JHM-Min-to-Min
+JHH-NonEx-FT8-SH-OT-30L-247-DF1|15-7-All|JHM-Min-to-Min
+JHH-NonEx-PT-SH-OT-30L-247-DF1|15-7-All|JHM-Min-to-Min
+JHH-NonEx-PT-SH-OT-30L-247NOHOP|15-7-All|JHM-Min-to-Min
+JHH-OT-CLB|15-7-All|JHM-Min-to-Min
+JHH-OT-CLB-ENHRN|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-8hr-DF10|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-8hr-DF3|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-8hr-DF3.5|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-8hr-DF4|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-8hr-DF5|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-SH-10hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-SH-12hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-SH-6hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-SH-80Hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-SH-8hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-SH-8hr-WKE|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF1-WOT-SH-9hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF2-WOT-8hr-DF10|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF2-WOT-8hr-DF3.5|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF2-WOT-8hr-DF4|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF2-WOT-8hr-DF5|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF2-WOT-SH-10hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF2-WOT-SH-12hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF2-WOT-SH-6hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF2-WOT-SH-8hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF2-WOT-SH-8hr-WKE|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF2-WOT-SH-9hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-8hr-D8.5|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-8hr-DF10|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-8hr-DF3.5|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-8hr-DF9|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-SH-10hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-SH-12hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-SH-6hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-SH-80Hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-SH-8hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-SH-8hr-WKE|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EF3-WOT-SH-9hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP1-WOT-6hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP1-WOT-6hr-DF2|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP1-WOT-DF2|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP1-WOT-SH|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP1-WOT-SH-6hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP1-WOT-SH-NOHOP|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP2-WOT-SH|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP2-WOT-SH-NOHOP|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP3-WOT-SH|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP3-WOT-SH-80Hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-EP3-WOT-SH-NOHOP|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF1-OTONLY|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF1-WOT-SH|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF1-WOT-SH-60|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF1-WOT-SH-DF1|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF2-OTONLY|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF2-WOT-SH|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF2-WOT-SH-DF1|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF3-OTONLY|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF3-OT-PSN|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF3-WOT-SH|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF3-WOT-SH-80Hr|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NF3-WOT-SH-DF1|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NP1-WOT-SH|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NP1-WOT-SH-60|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NP1-WOT-SH-NOHOP|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NP2-WOT-SH|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NP2-WOT-SH-NOHOP|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NP3-WOT-SH|15-7-All|JHM-Min-to-Min
+JHH-Pathology-NP3-WOT-SH-NOHOP|15-7-All|JHM-Min-to-Min
+JHH-Pathology-UF1-DOT-SH|15-7-All|JHM-Min-to-Min
+JHH-Pathology-WOT|15-7-All|JHM-Min-to-Min
+JHH-Pathology-WOT-8hr|15-7-Single Punch|JHM-Min-to-Min
+JHH-Pathology-WOT-SH|15-7-All|JHM-Min-to-Min
+JHHR HOP ALT Holiday|15-7-All|JHM-Min-to-Min
+JHHR HOP SH2 ALT Holiday|15-7-All|JHM-Min-to-Min
+JHHR HOP SH2+DF1 ALT Holiday|15-7-All|JHM-Min-to-Min
+JHHR HOP SH3 ALT Holiday|15-7-All|JHM-Min-to-Min
+JHHR HOP SH3+DF2 ALT Holiday|15-7-All|JHM-Min-to-Min
+JHHR-Callback-Not Worked|15-7-All|JHM-Min-to-Min
+JHHR-CLL|15-7-All|JHM-Min-to-Min
+JHHR-E10-SH-AST|15-7-All|JHM-Min-to-Min
+JHHR-E12-SH-AST|15-7-All|JHM-Min-to-Min
+JHHR-E8-SH|15-7-All Agency|JHM-Min-to-Min
+JHHR-E8-SH-AST|15-7-All|JHM-Min-to-Min
+JHHR-N-PRNs|15-7-All|JHM-Min-to-Min
+JHHR-N-SH1|15-7-All|JHM-Min-to-Min
+JHHR-N-SH1-3640|15-7-All|JHM-Min-to-Min
+JHHR-N-SH1-Callin|15-7-All|JHM-Min-to-Min
+JHHR-N-SH1-MIIT-Callin|15-7-All|JHM-Min-to-Min
+JHHR-N-SH1-NOHOP|15-7-All|JHM-Min-to-Min
+JHHR-N-SH1-RWE|15-7-All|JHM-Min-to-Min
+JHHR-N-SH2|15-7-All|JHM-Min-to-Min
+JHHR-N-SH2-3640|15-7-All|JHM-Min-to-Min
+JHHR-N-SH2-Callin|15-7-All|JHM-Min-to-Min
+JHHR-N-SH2-NOHOP|15-7-All|JHM-Min-to-Min
+JHHR-N-SH2-RWE|15-7-All|JHM-Min-to-Min
+JHHR-N-SH3|15-7-All|JHM-Min-to-Min
+JHHR-N-SH3-3640|15-7-All|JHM-Min-to-Min
+JHHR-N-SH3-Callin|15-7-All|JHM-Min-to-Min
+JHHR-N-SH3-MIIT-Callin|15-7-All|JHM-Min-to-Min
+JHHR-N-SH3-NOHOP|15-7-All|JHM-Min-to-Min
+JHHR-N-SH3-RWE|15-7-All|JHM-Min-to-Min
+JHHR-N-SH-Interns|15-7-All|JHM-Min-to-Min
+JHHR-SH1-DF-OT-OnCall|15-7-All|JHM-Min-to-Min
+JHHR-SH1-OT-OnCall|15-7-All|JHM-Min-to-Min
+JHHR-SH2-DF-OT-OnCall|15-7-All|JHM-Min-to-Min
+JHHR-SH2-OT-OnCall|15-7-All|JHM-Min-to-Min
+JHHR-SH3-DF-OT-OnCall|15-7-All|JHM-Min-to-Min
+JHHR-SH3-OT-OnCall|15-7-All|JHM-Min-to-Min
+JHHR-SH-Callback|15-7-All|JHM-Min-to-Min
+JHHR-T-SH1|15-7-All|JHM-Min-to-Min
+JHHR-T-SH1-3640|15-7-All|JHM-Min-to-Min
+JHHR-T-SH1-DF1|15-7-All|JHM-Min-to-Min
+JHHR-T-SH1-NOHOP|15-7-All|JHM-Min-to-Min
+JHHR-T-SH1-RWE|15-7-All|JHM-Min-to-Min
+JHHR-T-SH2|15-7-All|JHM-Min-to-Min
+JHHR-T-SH2-3640|15-7-All|JHM-Min-to-Min
+JHHR-T-SH2-NOHOP|15-7-All|JHM-Min-to-Min
+JHHR-T-SH2-RWE|15-7-All|JHM-Min-to-Min
+JHHR-T-SH3|15-7-All|JHM-Min-to-Min
+JHHR-T-SH3-3640|15-7-All|JHM-Min-to-Min
+JHHR-T-SH3-RWE|15-7-All|JHM-Min-to-Min
+JHHR-U-SH1|15-7-All|JHM-Min-to-Min
+JHHR-U-SH1-Callin|15-7-All|JHM-Min-to-Min
+JHHR-U-SH1-NOHOP|15-7-All|JHM-Min-to-Min
+JHHR-U-SH2|15-7-All|JHM-Min-to-Min
+JHHR-U-SH2-Callin|15-7-All|JHM-Min-to-Min
+JHHR-U-SH2-NOHOP|15-7-All|JHM-Min-to-Min
+JHHR-U-SH3|15-7-All|JHM-Min-to-Min
+JHHR-U-SH3-Callin|15-7-All|JHM-Min-to-Min
+JHHR-Wand-On Call|15-7-All|JHM-Min-to-Min
+JHHS-Exempt-CLL-D6.0|15-7-All|JHM-Min-to-Min
+JHHS-Exempt-FT10-AST|STA-Round schedule start Single|JHM-Min-to-Min
+JHHS-Exempt-FT12-AST|STA-Round schedule start Single|JHM-Min-to-Min
+JHHS-Exempt-FT4-AST|STA-Round schedule start Single|JHM-Min-to-Min
+JHHS-Exempt-FT6-AST|STA-Round schedule start Single|JHM-Min-to-Min
+JHHS-Exempt-FT8-AST|STA-Round schedule start Single|JHM-Min-to-Min
+JHHS-Exempt-SH1-30L-AST|15-7-All|JHM-Min-to-Min
+JHHS-Exempt-SH1-30L-OTP|15-7-All|JHM-Min-to-Min
+JHHS-Exempt-SH3-30L-AST|15-7-All|JHM-Min-to-Min
+JHHS-Exempt-SH3-30L-OTP|15-7-All|JHM-Min-to-Min
+JHHS-Exempt-STA-CLL-AST|15-7-All|JHM-Min-to-Min
+JHHS-Exempt-STA-ORR-AST|STA-Round schedule start Single|JHM-Min-to-Min
+JHH-SH-CLB|15-7-All|JHM-Min-to-Min
+JHH-SH-CLB-ENHRN|15-7-All|JHM-Min-to-Min
+JHHS-NCR-N-SH-WOT|15-7-All|JHM-Min-to-Min
+JHHS-NCR-N-SH-WOT-CHARGE|15-7-All|JHM-Min-to-Min
+JHHS-NCR-N-SH-WOT-OPO|15-7-All|JHM-Min-to-Min
+JHHS-NCR-N-SH-WOT-ORR|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-PT12-SH1-OT-30L|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-PT12-SH3-OT-30L|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-PT-OT-30L|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-PT-SH1-OT-30L|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-PT-SH1-OT-30L-RNF|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-PT-SH3-OT-30L|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-PT-SH3-OT-30L-RNF|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-SH1-30L-OPO|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-SH1-30L-OPO-PRE|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-SH3-30L-OPO|15-7-All|JHM-Min-to-Min
+JHHS-NonExempt-SH3-30L-OPO-PRE|15-7-All|JHM-Min-to-Min
+JHHS-ORR-SH1|15-7-All|JHM-Min-to-Min
+JHHS-ORR-SH2|15-7-All|JHM-Min-to-Min
+JHHS-ORR-SH3|15-7-All|JHM-Min-to-Min
+JHH-Union-FT16-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Union-FT16-SH-OT-30L-DD|15-7-All|JHM-Min-to-Min
+JHH-Union-FT8-1hrL|15-7-All|JHM-Min-to-Min
+JHH-Union-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Union-Pharmacy-OPO|15-7-All|JHM-Min-to-Min
+JHH-Union-Pharmacy-OPO2|15-7-All|JHM-Min-to-Min
+JHH-Union-PT-SH-OT-30L|15-7-All|JHM-Min-to-Min
+JHH-Union-PT-SH-OT-30L-NOHOP|15-7-All|JHM-Min-to-Min
+JHM-E-AST|15-7-All|JHM-Min-to-Min
+JHRP-Exempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+JHRP-Exempt-PT6-OT-30L|15-7-All|JHM-Min-to-Min
+JHRP-Exempt-PT-OT-30L|15-7-All|JHM-Min-to-Min
+JHRP-NonExempt-FT8-NL|15-7-All|JHM-Min-to-Min
+JHRP-NonExempt-FT8-OT-NL|15-7-All|JHM-Min-to-Min
+JHRP-NonExempt-PT-NL|15-7-All|JHM-Min-to-Min
+JHRP-NonExempt-PT-OT-NL|15-7-All|JHM-Min-to-Min
+JHSC-CLL|NULL|JHM-Min-to-Min
+JHU-BSI-FT-SH-OT|JHU Round to Schedule Start|JHM-Min-to-Min
+JHUTRAN-BSI-FT-SH-OT|JHU-BSI Round to Schedule Start|JHM-Min-to-Min
+JHUTRAN-BSI-FT-SH-OT-SPLIT1|JHU-BSI Round to Schedule Start|JHM-Min-to-Min
+JHUTRAN-BSI-FT-SH-OT-SPLIT1.5|JHU-BSI Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-1Hr|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-1Hr-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Custodian|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-NL|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-NL-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem0|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem0-1Hr|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem0-1Hr-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem0-NL|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem0-NL-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem0-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem0-WOTP|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem1|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem1-1Hr|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem1-1Hr-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem1-NL|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem1-NL-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem1-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem1-WOTP|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem1-WOTP En|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem2|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem2-1Hr|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem2-1Hr-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem2-NL|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem2-NL-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem2-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem2-WOTP|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem3|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem3-1Hr|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem3-1Hr-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem3-NL|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem3-NL-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem3-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem3-WOTP|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem4|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem4-1Hr|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem4-1Hr-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem4-NL|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem4-NL-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem4-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem4-WOTP|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem5|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem5-1Hr|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem5-1Hr-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem5-NL|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem5-NL-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem5-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-Prem5-WOTP|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-FT-SH-OT-WOTP|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-PT-SH-OT|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-PT-SH-OT-4HrSH|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-PT-SH-OT-4HrSH-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-PT-SH-OT-4HrSH-WOTP|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-PT-SH-OT-TLC|JHU Round to Schedule Start|JHM-Min-to-Min
+JHU-Union-PT-SH-OT-WOTP|JHU Round to Schedule Start|JHM-Min-to-Min
+KRONOS-Agency-Global-Hourly|15-7-All Agency|JHM-Min-to-Min
+KRONOS-Agency-Global-Hourly-2|15-7-All Agency|JHM-Min-to-Min
+PAH-Exempt-FT8-SH-OT|15-7-All|JHM-Min-to-Min
+PAH-Exempt-FT8-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+PAH-Exempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+PAH-Exempt-FT8-SH-OT-45L|15-7-All|JHM-Min-to-Min
+PAH-Exempt-FT8-SH-OT-60L|15-7-All|JHM-Min-to-Min
+PHQ-Exempt-FT8-AST-30L|PHQ 15-7-Exempt|JHM-Min-to-Min
+PHQ-Exempt-FT9-AST-30L|PHQ 15-7-Exempt|JHM-Min-to-Min
+PHQ-Exempt-FT9-SH-AST-30L|PHQ 15-7-Exempt|JHM-Min-to-Min
+PHQ-Exempt-PT75-OT-30L|15-7-All|JHM-Min-to-Min
+PHQ-Exempt-PT75-SH-OT-30L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-OT-45L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-1hrL|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-30L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-45L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-60L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-NL|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-OT-1hrL|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-OT-45L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-OT-45L-|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-OT-60L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-OT-NL|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-FT8-SH-OT-WED-45L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-PD-RXD|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-PT-OT-45L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-PT-OT-D1.5-45L|15-7-All|JHM-Min-to-Min
+PHQ-NonExempt-PT-SH-OT-45L|15-7-All|JHM-Min-to-Min
+PHS-Exempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-FT8-30L|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-FT8-SH-30L|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-PT-30L|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-PT-OT-30L|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-PT-OT-NL|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-PT-SH-30L|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-PT-SH-OT-30L|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-PT-SH-OT-NL|15-7-All|JHM-Min-to-Min
+PHS-NonExempt-PT-WED-OT-30L|15-7-All|JHM-Min-to-Min
+Recall|15-7-All|JHM-Min-to-Min
+SEC-BSI-Exempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+SEC-BSI-NonExempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+SEC-BSI-ONLY---CA1|15-7-All|JHM-Min-to-Min
+SEC-BSI-ONLY---CA2|15-7-All|JHM-Min-to-Min
+SEC-BSI-ONLY---CA3|15-7-All|JHM-Min-to-Min
+SEC-BSI-ONLY---CA4|15-7-All|JHM-Min-to-Min
+SEC-BSI-ONLY---CA5|15-7-All|JHM-Min-to-Min
+SEC-BSI-ONLY---CAL|15-7-All|JHM-Min-to-Min
+SEC-BSI-ONLY---SPC|15-7-All|JHM-Min-to-Min
+SEC-BSI-ONLY---TRN|15-7-All|JHM-Min-to-Min
+SEC-Exempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+SEC-JHMI-ONLY---CA1|15-7-All|JHM-Min-to-Min
+SEC-JHMI-ONLY---CA2|15-7-All|JHM-Min-to-Min
+SEC-JHMI-ONLY---CA3|15-7-All|JHM-Min-to-Min
+SEC-JHMI-ONLY---CA4|15-7-All|JHM-Min-to-Min
+SEC-JHMI-ONLY---CA5|15-7-All|JHM-Min-to-Min
+SEC-JHMI-ONLY---CAL|15-7-All|JHM-Min-to-Min
+SEC-JHMI-ONLY---SPC|15-7-All|JHM-Min-to-Min
+SEC-JHMI-ONLY---Training|15-7-All|JHM-Min-to-Min
+SEC-NonExempt-FT8-OT-30L|15-7-All|JHM-Min-to-Min
+SEC-NonExempt-FT8-SH-OT-30L|15-7-All|JHM-Min-to-Min
+SH-CALL BACK NO HOL|SH - 15-7|JHM-Min-to-Min
+SH-CALL BACK RN|SH - 15-7|JHM-Min-to-Min
+SH-CALL BACK RN-ENHRN|SH - 15-7|JHM-Min-to-Min
+SH-EDU-ELECTIVE|SH - 15-7|JHM-Min-to-Min
+SH-EDU-REQUIRED|SH - 15-7|JHM-Min-to-Min
+SH-E-NOHOP-OPO|SH - 15-7|JHM-Min-to-Min
+SH-E-OPO|SH - 15-7|JHM-Min-to-Min
+SH-E-SH-AST-WED|SH - 15-7|JHM-Min-to-Min
+SH-N-PRN-SH-WOT-WED|SH - 15-7|JHM-Min-to-Min
+SH-N-PRN-SH-WOT-WED-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-RAD-SH-WOT-WED-ALT1|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED-ALT2|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED-ALT2-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED-ALT3|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED-ALT3-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED-DF3|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED-RET|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED-RET-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED-RNC|SH - 15-7|JHM-Min-to-Min
+SH-N-RN-SH-WOT-WED-RNC-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-SH1-WOT-WED|SH - 15-7|JHM-Min-to-Min
+SH-N-SH1-WOT-WED-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-SH2-WOT-WED|SH - 15-7|JHM-Min-to-Min
+SH-N-SH2-WOT-WED-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-SH-WED-CLH|SH - 15-7|JHM-Min-to-Min
+SH-N-SH-WED-HOP-CLH|SH - 15-7|JHM-Min-to-Min
+SH-N-SH-WOT-WED-BAY|SH - 15-7|JHM-Min-to-Min
+SH-N-SH-WOT-WED-MAJ|SH - 15-7|JHM-Min-to-Min
+SH-N-SH-WOT-WED-MAJ-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-SH-WOT-WED-MAJ-PharmTech|SH - 15-7|JHM-Min-to-Min
+SH-N-SH-WOT-WED-NOBRK|SH - 15-7|JHM-Min-to-Min
+SH-N-SOS-SH-WOT-WED|SH - 15-7|JHM-Min-to-Min
+SH-N-SOS-SH-WOT-WED-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-TECH-SH-WOT-WED-ALT3|SH - 15-7|JHM-Min-to-Min
+SH-N-WOT|SH - 15-7|JHM-Min-to-Min
+SH-N-WOT-DF5|SH - 15-7|JHM-Min-to-Min
+SH-N-WOT-DF5-OPO|SH - 15-7|JHM-Min-to-Min
+SH-N-WOT-DF5-RNC|SH - 15-7|JHM-Min-to-Min
+SH-N-WOT-OPO|SH - 15-7|JHM-Min-to-Min
+SH-ON CALL|SH - 15-7|JHM-Min-to-Min
+SH-ON CALL-ENHRN|SH - 15-7|JHM-Min-to-Min
+SH-ORIENTATION|SH - 15-7|JHM-Min-to-Min
+SH-ORR|SH - 15-7|JHM-Min-to-Min
+SH-ORR-NODIFF|SH - 15-7|JHM-Min-to-Min
+SH-RESIDENT|15-7-All Agency|JHM-Min-to-Min
+SH-SITTER TEMP|SH - 15-7|JHM-Min-to-Min
+SH-TEMP|SH - 15-7|JHM-Min-to-Min
+SMH-CL10-MAKEUP|NULL|JHM-Min-to-Min
+SMH-CLL-MAKEUP|NULL|JHM-Min-to-Min
+SMH-CLL-MAKEUP-ENHRN|NULL|JHM-Min-to-Min
+SMH-E8-80-AST|15-7-All|JHM-Min-to-Min
+SMH-E-OPO|15-7-All|JHM-Min-to-Min
+SMH-E-SH-WOT-WED-HOP-DF3-OPO|15-7-All|JHM-Min-to-Min
+SMH-E-SH-WOT-WED-HOP-OPO|15-7-All|JHM-Min-to-Min
+SMH-E-WOT-OPO|15-7-All|JHM-Min-to-Min
+SMH-N-CLL|NULL|JHM-Min-to-Min
+SMH-N-CLL-CRISIS|NULL|JHM-Min-to-Min
+SMH-N-CLL-CRISIS-ENHRN|NULL|JHM-Min-to-Min
+SMH-N-CLL-ENHRN|NULL|JHM-Min-to-Min
+SMH-N-SH-ALLOT-WED-HOP|15-7-All|JHM-Min-to-Min
+SMH-N-SH-HOP-CLL|NULL|JHM-Min-to-Min
+SMH-N-SH-HOP-CLL-ENHRN|NULL|JHM-Min-to-Min
+SMH-N-SH-OTP-WED-HOP|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WED|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WED-HOP-PRM|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-CLL|NULL|JHM-Min-to-Min
+SMH-N-SH-WOT-HOP-CLL|NULL|JHM-Min-to-Min
+SMH-N-SH-WOT-HOP-CLL-ENHRN|NULL|JHM-Min-to-Min
+SMH-N-SH-WOT-HOP-EDU|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-HOP-EDU-DF1|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-HOP-NPP|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-HOP-NPP-DF1|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-HOP-ORR|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-HOP-ORR-DF1|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-HOP-ORR-DF3|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-HOP-ORR-DF3.5|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-2WEA|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-CHP|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-CRISIS|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-DF1|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-DF2|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-DF3|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-DF3.5|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-DF3-CRISIS|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-DF3-OPO|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-DOT8|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-DOT8-OPO|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-NOMEAL|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-NOMEAL-OPO|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-NP2|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-NPP|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-OPO|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-PharmTech|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-PRE|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-WED-NoMaj|15-7-All|JHM-Min-to-Min
+SMH-N-SHWOTWEDHOP-WED-NoMaj-OPO|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-WER1|15-7-All|JHM-Min-to-Min
+SMH-N-SH-WOT-WED-HOP-WER2|15-7-All|JHM-Min-to-Min
+SMH-N-WOT|15-7-All|JHM-Min-to-Min
+SMH-N-WOT-HOP|15-7-All|JHM-Min-to-Min
+SMH-N-WOT-HOP-CLL|NULL|JHM-Min-to-Min
+SMH-N-WOT-HOP-CLL-ENHRN|NULL|JHM-Min-to-Min
+SMH-N-WOT-OPO|15-7-All|JHM-Min-to-Min
+SOM ACCM-ATTENDING|NULL|JHM-Min-to-Min
+SOM ACCM-DEFAULT|NULL|JHM-Min-to-Min
+SOM-OTO-DEFAULT|NULL|JHM-Min-to-Min
